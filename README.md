@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Mostafa Sanei Nia
-- 👀 I’m interested in programing and web developement
-- 🌱 I’m currently learning how to be a better programer
-- 💞️ I’m looking to collaborate on any related project
-- 📫 How to reach me:
-- mostafa.saneism@gmail.com , in/mostafa-saneinia, +989108810187
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: penguins are fun.
+Greetings, I am Mostafa Sanei Nia.
+I have a keen interest and expertise in the fields of programming and web development.
+I am currently focused on continually enhancing my programming proficiency through dedicated learning and practice.
+I am eager to collaborate on any relevant projects that align with my areas of interest and expertise.
+To reach me, please use the following contact information:
+Email: mostafa.saneism@gmail.com
+LinkedIn: in/mostafa-saneinia
+Telephone: +989108810187
 
 <!---
 mosisn/mosisn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
