@@ -44,7 +44,7 @@
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="40" height="40"/>
+        <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="80" height="40"/>
     </a>
 </p>
 
