@@ -48,9 +48,10 @@
     </a>
 </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mosisn&&theme=xcode)](https://github.com/mosisn)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosisn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mosisn" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosisn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mosisn" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosisn&show_icons=true&locale=en&theme=tokyonight" alt="mosisn" /></p>
 
