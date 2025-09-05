@@ -2,16 +2,6 @@
 <h3 align="center">A passionate Back-end Developer from Iran</h3>
 
 
-- 🔭 I’m currently working on **Personal Projects**
-
-- 🌱 I’m currently learning **backend Development**
-
-- 💬 Ask me about **python , Django**
-
-- 📫 How to reach me **mostafa.saneisn@gmail.com**
-
-- ⚡ Fun fact **I am Fun 😛**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-saneinia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
